@@ -20,5 +20,22 @@ https://24923.live.streamtheworld.com/BLUE_FM_100_7.mp3
 http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO BOREAL EXSALTACION DE LA CRUZ
-
 http://184.107.35.153:9758/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO UNIVERSIDAD MDP
+http://fm.mdp.edu.ar:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", COMPACTO
+http://compactofm.hopto.org:7040/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", BRISAS
+https://radio.ecolan.com:8443/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", MITRE MDP
+http://201.212.6.37/mitre_mdq.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", DE LA CALLE 
+http://190.1.0.5:8072/;stream.mp3
+
+
+
