@@ -1,5 +1,11 @@
 #EXTM3U  
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", TV PUBLICA 
-http://190.11.130.46/mnp/tvp/output.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO ARGENTINA
+http://server.laradio.online:25224/live.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", FM MALENA
+http://vivo.radioam750.com.ar/vivofm.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO DISNEY
+https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3
