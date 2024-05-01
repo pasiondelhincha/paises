@@ -47,13 +47,14 @@ http://190.11.130.46/mnp/tntsports/output.mpd
 http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79339
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
-http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79141
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
 http://todoporti.eu:80/Pedrovadillo/D6UEftaKKg/79340
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
-http://mohdtv.com:8880/voby4996/283752938/49981
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 7
 http://190.11.130.46/mnp/espnpremium/output.mpd
@@ -62,18 +63,16 @@ http://190.11.130.46/mnp/espnpremium/output.mpd
 http://190.11.130.46/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 9
-http://budtvlight.com:25461/bud-1882009/1e621f3272/158832
+https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 10
-http://budtvlight.com:25461/bud-1882009/1e621f3272/132738
+https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 11
-http://190.11.130.46/mnp/espnpremium/output.mpd
+https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 12
-http://190.11.130.46/mnp/tntsports/output.mpd
-
-
+https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
@@ -268,6 +267,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqQEfRfgmd-7W5YSrsMCULg4NYd2QLU912no0Dmok4FCdC4LI_romUJTN0sRDanNuyarQjJ9=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wtjNKW_TimkxoGE2aTkDkeibnMr3_KdAnPA2U2R1UrPLevIcr3O7a2xg1cnFRXRwyFzY6o5mQw=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Honorable Cámara de Diputados de la Nación (SOLO SESIONES)
+https://ythls.armelin.one/channel/UC5KfW9_wv4tqbIPgY8tMG-w.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
 https://ythls.armelin.one/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
 
@@ -294,6 +296,16 @@ https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
 https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kaXNV-R9BOogC-OTnFV9Fpl1Wb-xkwQR02tvHPTaAxI2M=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil
+https://ythls.armelin.one/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN
+https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
+
+
+
+
 
 
 
@@ -322,6 +334,12 @@ https://ythls.armelin.one/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
 https://ythls.armelin.one/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTw53D60RiGJHPx9mvShHRkbzK9tMQXrFIq29TXzXvnLaRm7rkMipeq01-T01pXiMJyrXaqxlOQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
+https://ythls.armelin.one/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
+https://ythls.armelin.one/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
+
 
 
 
@@ -342,7 +360,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 http://177.222.108.82:2500/play/a0h5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
-http://todoporti.eu:80/Pedrovadillo/D6UEftaKKg/79317
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79316
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwn6jVqoyuUaYhTM8pXhMccxiG_S-eV18qOQTBI8D&s" group-title="DEPORTIVOS", CLARO SPORTS 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
@@ -354,7 +372,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="DEPORTIVOS", TIGO SPORTS
-https://linear-556.frequency.stream/dist/localnow/556/hls/master/playlist.m3u8
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79318
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Fox Sports
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
@@ -1667,7 +1685,7 @@ https://ythls.armelin.one/channel/UCdt3k263GKb3Ua6tCMaQEVg.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0226
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0209
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
@@ -1859,7 +1877,8 @@ https://panel.dattalive.com/8994/8994/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiosudamericana.com/images/logo.png" group-title="CORRIENTES", Radio Sudamericana
 https://ythls.armelin.one/channel/UCfnW8ZvUokNzgBDioLyb2Jw.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/40rptCTXnlrSVBB4PjRlmeBgs7OhSkZDawUZLF2p9a-HHQoldPbx1-UxsDDuS556qXK46L79Pg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Radio LT7 AM 900
+https://ythls.armelin.one/channel/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
 
 
 
@@ -2084,10 +2103,7 @@ https://ythls.armelin.one/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0296
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
-https://ythls.armelin.one/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0280
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -2165,7 +2181,7 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/teleposadas.jpg?itok=S7VhxGDT" group-title="MISIONES", TELEPOSADAS
-https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
+https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
 
 #EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
 https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
@@ -2405,7 +2421,7 @@ https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0358
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0341
 
 #EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="SAN JUAN", FM DEL SOL 91.9 SAN JUAN
 https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
@@ -2479,10 +2495,10 @@ https://ythls.armelin.one/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0384 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0366
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0391
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0372
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
