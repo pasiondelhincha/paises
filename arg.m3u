@@ -1570,14 +1570,17 @@ https://stream.arcast.com.ar/la90fm/la90fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d21BfBmhX1bwW-GGgDW-mNYrotw3I8mBG7jxfeDn3bZzuu5tEjkUm-EUXiZJLYcApoQxALu46Q=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", SUMA PLAY 
 https://ythls-v2.onrender.com/channel/UCimXhau1n9r56QbTLOpx0Tg.m3u8
 
+#EXTINF:-1 tvg-logo="http://www2.mdp.edu.ar/templates/plantilla_sitio/images/top.png" group-title="PCIA BS AS", RADIO UNIVERSIDAD 95.7 MDP (SOLO AUDIO)
+http://fm.mdp.edu.ar:8000/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121619/images/logog.png" group-title="PCIA BS AS", COMPACTO FM 97.7 MDP (SOLO AUDIO)
+http://compactofm.hopto.org:7040/stream.mp3
 
+#EXTINF:-1 tvg-logo="https://radiobrisas.com/images/favicon.png" group-title="PCIA BS AS", RADIO BRISAS MDP (SOLO AUDIO)
+https://radio.ecolan.com:8443/stream.mp3
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/delacalle.org/wp-content/uploads/2021/09/logo300png.png?w=300&ssl=1" group-title="PCIA BS AS", RADIO DE LA CALLE MDP (SOLO AUDIO)
+http://190.1.0.5:8072/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA", CANAL 7 CATAMARCA
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
