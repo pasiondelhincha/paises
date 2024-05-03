@@ -20,17 +20,3 @@ https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO UNIVERSIDAD MDP
-http://fm.mdp.edu.ar:8000/;stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", COMPACTO
-http://compactofm.hopto.org:7040/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", BRISAS
-https://radio.ecolan.com:8443/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", DE LA CALLE 
-http://190.1.0.5:8072/;stream.mp3
-
-
-
