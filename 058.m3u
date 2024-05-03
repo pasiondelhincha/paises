@@ -16,23 +16,7 @@ https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO ARGENTINA
-http://server.laradio.online:25224/live.mp3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", FM MALENA
-http://vivo.radioam750.com.ar/vivofm.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO DISNEY
-https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", CADENA 3
-http://c3live-sm.mediainbox.net/cadena3.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", BLUE
-https://24923.live.streamtheworld.com/BLUE_FM_100_7.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO FUTURA
-http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", RADIO BOREAL EXSALTACION DE LA CRUZ
 http://184.107.35.153:9758/;stream.mp3
