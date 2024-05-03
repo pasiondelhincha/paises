@@ -36,10 +36,10 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 
-http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/269421
+https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
-http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/269417
+https://tvfuego.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 3
 http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79339
@@ -65,7 +65,11 @@ http://abcnew.site:8880/1mmc220081/43978689/49718
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 10
 http://abcnew.site:8880/1mmc220081/43978689/49981
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 11
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/269421
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 12
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/269417
 
 
 
