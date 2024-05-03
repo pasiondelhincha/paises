@@ -1579,8 +1579,15 @@ http://compactofm.hopto.org:7040/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiobrisas.com/images/favicon.png" group-title="PCIA BS AS", RADIO BRISAS MDP (SOLO AUDIO)
 https://radio.ecolan.com:8443/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/delacalle.org/wp-content/uploads/2021/09/logo300png.png?w=300&ssl=1" group-title="PCIA BS AS", RADIO DE LA CALLE MDP (SOLO AUDIO)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/delacalle.org/wp-content/uploads/2021/09/logo300png.png?w=300&ssl=1" group-title="PCIA BS AS", RADIO DE LA CALLE 87.7 BAHIA BLANCA (SOLO AUDIO)
 http://190.1.0.5:8072/;stream.mp3
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA", CANAL 7 CATAMARCA
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
