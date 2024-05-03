@@ -1247,6 +1247,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/UNO.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO-AMBA", RADIO BELGRANO (SOLO AUDIO)
 http://server.laradio.online:25223/live.mp3 
 
+#EXTINF:-1 tvg-logo="https://am570radioargentina.com.ar/wp-content/themes/radio/images/logo_570_chico_negro.png" group-title="RADIO-AMBA", RADIO ARGENTINA AM 570 (SOLO AUDIO)
+http://server.laradio.online:25224/live.mp3
+
+#EXTINF:-1 tvg-logo="https://fmfutura.com.ar/wp-content/uploads/2009/10/Futura-Podcast2.gif" group-title="RADIO-AMBA", RADIO FUTURA 90.5 LA PLATA (SOLO AUDIO)
+http://streamer.fmfutura.com.ar:8000/vivo.mp3
+
 #EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
 https://videohd.live:19360/8124/8124.m3u8
 
