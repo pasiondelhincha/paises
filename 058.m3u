@@ -16,7 +16,7 @@ https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="525", Tango Sports 
 https://acerca.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
