@@ -33,18 +33,22 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 
-http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79339
+http://45.5.151.151:8000/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
-http://todoporti.eu:80/Pedrovadillo/D6UEftaKKg/79340
+http://45.5.151.151:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 3
-https://zonamovie.live:443/play/BEdt7QxsASpQZ_7WQNUhTEdbS05-XEXxlwcsu8xJe6z6_AEvY5khuF4KsM_Q_d5x/ts
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79339
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
+http://todoporti.eu:80/Pedrovadillo/D6UEftaKKg/79340
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
+https://zonamovie.live:443/play/BEdt7QxsASpQZ_7WQNUhTEdbS05-XEXxlwcsu8xJe6z6_AEvY5khuF4KsM_Q_d5x/ts
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
 http://cdnfast.online:80/luizgenroeulina/novoacesso75/1583993.ts
 
 
