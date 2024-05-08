@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami tv Jenny 
-https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", JENNY LIVE TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", Miami TV México 
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="ADULTO", FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -123,7 +119,5 @@ http://live.mycamtv.com/squirt.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="ADULTO", MyCamTV White
 http://live.mycamtv.com/white.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="ADULTO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", Xpanded TV Studio Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
+
 
